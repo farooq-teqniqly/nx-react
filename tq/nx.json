@@ -33,6 +33,9 @@
     "bookings-e2e": {
       "tags": [],
       "implicitDependencies": ["bookings"]
+    },
+    "user-management": {
+      "tags": []
     }
   }
 }
